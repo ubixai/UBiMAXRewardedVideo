@@ -1,0 +1,2 @@
+# UBiMAXRewardedVideo
+UBiMAXRewardedVideo
