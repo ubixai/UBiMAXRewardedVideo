@@ -30,8 +30,6 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)umtRewardedVideo:(UMTRewardedVideo *)rewardedVideoAd didCloseWithExtra:(NSDictionary *)extra;
 /// 激励视频 奖励发放
 - (void)umtRewardedVideo:(UMTRewardedVideo *)rewardedVideoAd didRewardedWithExtra:(NSDictionary *)extra;
-/// 激励视频 播放开始
-- (void)umtRewardedVideo:(UMTRewardedVideo *)rewardedVideoAd didPlayStartWithExtra:(NSDictionary *)extra;
 /// 激励视频 播放状态变更
 - (void)umtRewardedVideo:(UMTRewardedVideo *)rewardedVideoAd didChangedPlayStatus:(UMTVideoPlayerStatus)status;
 /// 激励视频播放完成或异常
