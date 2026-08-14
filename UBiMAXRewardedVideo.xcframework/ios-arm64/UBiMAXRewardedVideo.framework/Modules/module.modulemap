@@ -1,0 +1,6 @@
+framework module UBiMAXRewardedVideo {
+  umbrella header "UBiMAXRewardedVideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
